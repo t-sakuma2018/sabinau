@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <enforce_license>log</enforce_license>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_category>none</license_category>
+        <license_model>none</license_model>
+        <logo/>
+        <menu display_value="lets_get_party_started">451102a5db062300ddbbd100cf961939</menu>
+        <name>lets_get_party_started</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_289334_lets_get</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_289334_lets_get</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-28 05:56:34</sys_created_on>
+        <sys_id>01110265db062300ddbbd100cf9619e9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-28 06:18:55</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role display_value="x_289334_lets_get.user" name="x_289334_lets_get.user">411102a5db062300ddbbd100cf96193d</user_role>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+</record_update>

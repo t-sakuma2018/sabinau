@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>lets_get_party_started</name>
+        <order/>
+        <roles>x_289334_lets_get.user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-28 06:03:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7e924ae5db062300ddbbd100cf961974</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>lets_get_party_started</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="lets_get_party_started" source="x_289334_lets_get">01110265db062300ddbbd100cf9619e9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="lets_get_party_started">01110265db062300ddbbd100cf9619e9</sys_scope>
+        <sys_update_name>sys_ui_application_7e924ae5db062300ddbbd100cf961974</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-28 06:03:14</sys_updated_on>
+    </sys_ui_application>
+</record_update>

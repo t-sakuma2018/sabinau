@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="incident" label="pinkie smile" max_length="40" name="x_289334_lets_get_pinkie_smile" type="collection"/>
+</database>

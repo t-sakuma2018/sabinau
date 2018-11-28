@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-28 06:03:14</sys_created_on>
+        <sys_id>8b924ae5db062300ddbbd100cf96199f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_289334_lets_get_pinkie_smile.x_289334_lets_get.user</sys_name>
+        <sys_package display_value="lets_get_party_started" source="x_289334_lets_get">01110265db062300ddbbd100cf9619e9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="lets_get_party_started">01110265db062300ddbbd100cf9619e9</sys_scope>
+        <sys_security_acl display_value="x_289334_lets_get_pinkie_smile">0f924ae5db062300ddbbd100cf96199b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_8b924ae5db062300ddbbd100cf96199f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-28 06:03:14</sys_updated_on>
+        <sys_user_role display_value="x_289334_lets_get.user" name="x_289334_lets_get.user">411102a5db062300ddbbd100cf96193d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
